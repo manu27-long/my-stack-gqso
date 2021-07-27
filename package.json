@@ -1,0 +1,22 @@
+{
+  "name": "my-stack-gqso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stack.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu27-long/my-stack-gqso.git"
+  },
+  "author": "Manuela",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/manu27-long/my-stack-gqso/issues"
+  },
+  "homepage": "https://github.com/manu27-long/my-stack-gqso#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
